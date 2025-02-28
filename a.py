@@ -11,6 +11,4 @@ print('afternoon')
 print('ram')
 print('pranav')
 print('raghu')
-print('sai')
-print('dinesh')
-print('evng')
+
