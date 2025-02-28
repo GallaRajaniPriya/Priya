@@ -5,11 +5,3 @@ print('how are you')
 print('good')
 print('bad')
 print('fine')
-print('all')
-<<<<<<< HEAD
-print('priya')
-print('gud mrng')
-print('why this')
-=======
-print('priya')
->>>>>>> parent of 1dc96e6 (Update a.py)
