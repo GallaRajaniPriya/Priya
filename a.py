@@ -11,10 +11,3 @@ print('afternoon')
 print('ram')
 print('pranav')
 print('raghu')
-print('sai')
-<<<<<<< HEAD
-print('dinesh')
-print('evng')
-=======
-print('dinesh')
->>>>>>> first_branch
