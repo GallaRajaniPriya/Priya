@@ -9,5 +9,6 @@ print('rajani')
 print('good bad')
 print('afternoon')
 print('ram')
-
-
+print('pranav')
+print('raghu')
+print('sai')
