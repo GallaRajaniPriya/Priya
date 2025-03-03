@@ -12,5 +12,8 @@ print('ram')
 print('pranav')
 print('raghu')
 print('fine')
+<<<<<<< HEAD
 print('udaya')
 print('hii all')
+=======
+>>>>>>> parent of c03bade (added udaya)
