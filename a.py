@@ -12,6 +12,5 @@ print('ram')
 print('pranav')
 print('raghu')
 print('fine')
-<<<<<<< HEAD
 print('udaya')
 print('hii all')
