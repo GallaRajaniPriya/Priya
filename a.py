@@ -12,9 +12,6 @@ print('ram')
 print('pranav')
 print('raghu')
 print('fine')
-<<<<<<< HEAD
 print('sree')
-=======
 print('udaya')
 print('hii all')
->>>>>>> 5c820ac0a7eb7a1287f19d36dc42e0d1377137c7
